@@ -10,6 +10,8 @@ export const metadata: Metadata = {
   icons: {
     icon: "https://cdn.vectorstock.com/i/preview-1x/40/41/letter-cd-signature-logo-template-vector-33124041.webp",
   },
+  title:"Chetan Portfolio",
+  description: "Portfolio of Chetan, a software developer.",
 };
 
 export default function RootLayout({

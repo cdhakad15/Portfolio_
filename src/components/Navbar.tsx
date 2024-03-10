@@ -160,7 +160,7 @@ function Navbar() {
             {/* social links */}
             <div className=" gap-4 flex">
               <Link
-                href={"https://www.linkedin.com/in/sumit-mahour/"}
+                href={"https://www.linkedin.com/in/chetan-dhakad-018910241/"}
                 className="hover:translate-y-[-4px] transition-all"
                 target="_blank"
                 onClick={() => setIsOpen(false)}
@@ -169,7 +169,7 @@ function Navbar() {
               </Link>
 
               <Link
-                href={"https://github.com/SumitM28"}
+                href={"https://github.com/cdhakad15"}
                 className="hover:translate-y-[-4px] transition-all"
                 target="_blank"
                 onClick={() => setIsOpen(false)}
@@ -181,7 +181,7 @@ function Navbar() {
                 />
               </Link>
               <Link
-                href={"https://leetcode.com/sumitM28/"}
+                href={"https://leetcode.com/chtn1512/"}
                 className="hover:translate-y-[-4px] transition-all"
                 target="_blank"
                 onClick={() => setIsOpen(false)}
@@ -189,7 +189,7 @@ function Navbar() {
                 <LeetcodeIcon className={""} />
               </Link>
               <Link
-                href={"https://twitter.com/SumitMa65314533"}
+                href={"https://twitter.com/ChetanDhak77220"}
                 className="hover:translate-y-[-4px] transition-all"
                 target="_blank"
                 onClick={() => setIsOpen(false)}
